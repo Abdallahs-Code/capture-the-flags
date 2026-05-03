@@ -15,7 +15,7 @@ def solve(imagePath):
     # Pack the 1s and 0s into actual byte values (0-255)
     bytes = np.packbits(LSB)
     
-    # Convert the bytes into standard ASCII text, ignoring binary garbage
+    # Convert the bytes into standard ASCII text ignoring binary garbage
     extractedText = bytes.tobytes().decode('ascii', errors='ignore')
     
     # Search for the specific CTF flag formats using Regex
