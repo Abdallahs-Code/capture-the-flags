@@ -20,8 +20,6 @@ Each challenge required analyzing a different type of data and applying appropri
 
 ## 🧩 Challenges & Solutions
 
----
-
 ### 🔍 CTF1 – Packet Analysis
 
 **Objective:** Recover a flag hidden inside a network capture file.
@@ -164,5 +162,3 @@ CMPN{f4c70r_m3}
 - Ali Alaa Abdelaziz Niazi 
 - Ahmed Mohamed Ahmed 
 - Omar Ahmed Reda
-
-**Team 22 – Cairo University**
